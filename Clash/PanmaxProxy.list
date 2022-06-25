@@ -1,0 +1,5 @@
+# Panmax Proxy List
+
+DOMAIN-SUFFIX,intercom.io # notion used
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,loggly.com
